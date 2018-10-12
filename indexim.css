@@ -1,0 +1,23 @@
+
+h1 {
+    font-size: 300%;
+    Background-Color: RGB(56 ,79, 113);
+    text-align: center;
+}
+h2 {
+    font-size: 200%;
+    Color: RGB(228 ,179, 16);
+}
+body {
+    color:black;
+    background-color:white;
+    background-image:url(./GS.JPG);
+    }
+img {
+        width: 10%;
+     }
+
+br , p , li 
+{
+    color: white;
+}
